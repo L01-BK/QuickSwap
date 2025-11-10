@@ -1,3 +1,7 @@
+---
+layout: homepage
+---
+
 ## 🧩 Tên Dự Án
 **Smart Learning Assistant**
 
