@@ -14,6 +14,7 @@ Trong môi trường học tập, sinh viên thường gặp khó khăn khi cầ
 - ⭐ Hệ thống đánh giá uy tín người dùng sau mỗi giao dịch.  
 - 🧾 Quản lý danh sách đồ đã mượn và đã cho mượn.  
 - 🔔 **Thông báo nhắc trả đồ** trước hạn.
+
 ## 💻 Công Nghệ Sử Dụng
 - **Frontend:** React Native + Expo  
 - **Backend:** Java Spring Boot  
@@ -26,12 +27,13 @@ Trong môi trường học tập, sinh viên thường gặp khó khăn khi cầ
 | Dương Minh Hiếu      | Frontend Developer  | hieubk.work@gmail.com                 |
 | Nguyễn Gia Thịnh     | Frontend Developer  | thinh.nguyenza@hcmut.edu.vn          |
 | Nguyễn Trần Bảo Khoa | Backend Developer   | baokhoa.01092021@gmail.com           |
-| Nguyễn Anh Khoa      | Backend Developer   | khoa@gmail.com                        |
+| Nguyễn Anh Khoa      | Backend Developer   | anhkhoaoki@gmail.com                        |
 {% endraw %}
 
 ## 🔗 Liên Kết Dự Án
-- **GitHub Repository:** [https://github.com/L01-BK/QuickSwap-](https://github.com/L01-BK/QuickSwap-)
-- **Trang GitHub Pages:** [https://your-group.github.io/quickswap/](https://your-group.github.io/quickswap/)
+- 🌐 **GitHub Repository:** [https://github.com/L01-BK/QuickSwap-](https://github.com/L01-BK/QuickSwap-)  
+- 🚀 **Trang Giới Thiệu (GitHub Pages):** [https://l01-bk.github.io/QuickSwap/](https://l01-bk.github.io/QuickSwap/)
+
 ---
 
 ✨ *QuickSwap – Nơi sinh viên kết nối, chia sẻ và giúp đỡ nhau trong học tập.*  
