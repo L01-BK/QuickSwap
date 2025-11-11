@@ -27,9 +27,9 @@ Trong môi trường học tập, sinh viên thường gặp khó khăn khi cầ
 | Họ Tên | Vai Trò | Email |
 |--------|----------|--------|
 | Dương Minh Hiếu | Frontend Developer | hieubk.work@gmail.com |
-| Nguyễn Gia Thịnh | Frontend Developer | b@example.com |
-| Nguyễn Trần Bảo Khoa | Backend Developer | c@example.com |
-| Nguyễn Anh Khoa | Backend Developer | d@example.com |
+| Nguyễn Gia Thịnh | Frontend Developer | thinh.nguyenza@hcmut.edu.vn |
+| Nguyễn Trần Bảo Khoa | Backend Developer | baokhoa.01092021@gmail.com |
+| Nguyễn Anh Khoa | Backend Developer | khoa@gmail.com |
 
 ## 🔗 Liên Kết Dự Án
 - **GitHub Repository:** [https://github.com/your-group/quickswap](https://github.com/your-group/quickswap)
